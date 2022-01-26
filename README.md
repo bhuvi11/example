@@ -1,5 +1,7 @@
 # Go example projects
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/6ca9da38-58ed-4f43-a578-6d3946cd23cc.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/example?orgId=560723739106)  
+
 
 [![Go Reference](https://pkg.go.dev/badge/golang.org/x/example.svg)](https://pkg.go.dev/golang.org/x/example)
 
